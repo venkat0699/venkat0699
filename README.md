@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Venkatesh+%F0%9F%91%8B;Senior+DevOps+Engineer+%7C+6+Years+EXP;Infrastructure+as+Code+Enthusiast;Automating+Everything%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+Venkatesh+%F0%9F%91%8B;Senior+DevOps+Engineer+%7C+6+Years+XP;Infrastructure+as+Code+Enthusiast;Automating+Everything%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@ I'm **Venkatesh Nekkanti**, a Senior DevOps Engineer with **6 years of experienc
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluxCD-%235468FF.svg?style=for-the-badge&logo=flux&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
@@ -67,6 +68,7 @@ I'm **Venkatesh Nekkanti**, a Senior DevOps Engineer with **6 years of experienc
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
@@ -74,6 +76,7 @@ I'm **Venkatesh Nekkanti**, a Senior DevOps Engineer with **6 years of experienc
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />
 </p>
 
@@ -81,6 +84,7 @@ I'm **Venkatesh Nekkanti**, a Senior DevOps Engineer with **6 years of experienc
 <p>
   <img src="https://img.shields.io/badge/HashiCorp%20Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=aquasecurity&logoColor=white" />
 </p>
 
 ---
